@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Santiago Lepe 👋</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" alt="Profile Pic" />
+  <img src="blob:https://web.whatsapp.com/3b0a248d-70e1-4276-a446-7210aa5f481e" />
 </p>
 
 ---
@@ -44,10 +44,9 @@
 
 ## 📸 Random Snapshot
 
-> *(Puedes reemplazar esta imagen por algo tuyo, como un proyecto o fondo personalizado)*
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1581091870621-1cbcb15f7434?auto=format&fit=crop&w=800&q=60" width="600"/>
+  <img src="blob:https://web.whatsapp.com/86349ec3-a1ee-44dd-988d-7e058c0d03fe" width="600"/>
 </p>
 
 ---
