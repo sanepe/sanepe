@@ -40,5 +40,5 @@
 - 🤝 Looking to collaborate on real-world ideas and tools.
 - 📫 Reach me at: **santiago.tiendy@gmail.com**
 
-
+---
 <p align="center">Thanks for visiting! ⭐</p>
