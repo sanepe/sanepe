@@ -40,15 +40,5 @@
 - 🤝 Looking to collaborate on real-world ideas and tools.
 - 📫 Reach me at: **santiago.tiendy@gmail.com**
 
----
-
-## 📸 Random Snapshot
-
-
-<p align="center">
-  <img src="blob:https://web.whatsapp.com/86349ec3-a1ee-44dd-988d-7e058c0d03fe" width="600"/>
-</p>
-
----
 
 <p align="center">Thanks for visiting! ⭐</p>
