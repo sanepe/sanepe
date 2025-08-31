@@ -43,7 +43,7 @@
 - 🔭 I’m currently working on personal and educational projects.
 - 🌱 Constantly improving my skills and learning new tech.
 - 🤝 Looking to collaborate on real-world ideas and tools.
-- 📫 Reach me at: **santiago.tiendy@gmail.com**
+- 📫 Reach me at: **lepejavsn@gmail.com**
 
 ---
 
