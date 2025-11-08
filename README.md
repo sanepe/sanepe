@@ -8,7 +8,7 @@
 
 🎓 **Student** focused on education and personal growth.  
 🏡 Passionate about **real estate** and building smart solutions.  
-💻 I love programming with **Python, JavaScript, TypeScript, Node.js, React, Next.js, Angular, Vite, HTML, CSS, SQL**, and even **Arduino projects**.  
+💻 I love programming with **Python, JavaScript, TypeScript, Java, Node.js, React, Next.js, Angular, Vite, HTML, CSS, SQL**, and even **Arduino projects**.  
 🚀 Always learning and innovating.
 
 ---
